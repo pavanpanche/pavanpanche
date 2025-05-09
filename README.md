@@ -1,15 +1,12 @@
 
-
-# 👋 Hi there, I'm Pavan Panche
-
 Welcome to my GitHub profile! I'm a passionate Java backend developer, currently exploring the Spring Framework ecosystem and building practical projects to strengthen my skills.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Learning: Core Java, JDBC, and Spring Framework (no Spring Boot)
-- 💡 Building: Real-world mini projects like Hotel Reservation System and Library Management
+- 🎓 Learning:  Spring Framework, Spring Data JPA (no Spring Boot)
+- 💡 Building: Real-world mini projects like Hotel Reservation System and Library Management System
 - 🛠️ Skills: Java, MySQL, JDBC, Spring Core, OOP, Git
 - 🌱 Focused on writing clean, maintainable, and testable code
 
@@ -19,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, currently
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🏨 [Hotel Reservation System](https://github.com/pavanpanche/Console-Based-HospitalManagementSystem-java) | A hotel booking system with 4 entities using Spring and JDBC | Java, Spring, MySQL |
+| 🏨 [Hotel Reservation System](https://github.com/pavanpanche/Console-Based-HospitalManagementSystem-java) | A hotel booking system with 4 entities using Spring and JDBC | Java, JDBC, Spring, MySQL |
 | 📚 [Library Management System](https://github.com/pavanpanche/library-management-system) | Console-based system for managing books and members | Core Java |
-| 👨‍💼 [Employee Management System](https://github.com/pavanpanche/Employee-Management-System-Java-sql-spring) | Employee CRUD with sorting/filtering | Core Java, Collections |
+| 👨‍💼 [Employee Management System](https://github.com/pavanpanche/Employee-Management-System-Java-sql-spring) | Employee CRUD with sorting/filtering | Core Java, Jdbc, MySQL |
 ---
 
 
@@ -52,9 +49,5 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, currently
 ## 📊 GitHub Stats
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanpanche&show_icons=true&theme=default)
-
----
-
-_Thanks for visiting!_
 
 
