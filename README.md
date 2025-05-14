@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, currently
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently Learning: Spring Data JPA, Spring Boot
+- 🎓 Currently Learning and Working: Spring Data JPA, Spring Security(Jwt), Spring Boot
 - 💡 Building: Real-world mini projects like Hotel Reservation System and Library Management System
 - 🛠️ Skills: Java, MySQL, JDBC, Spring Core, OOP, Git, Html
 - 🌱 Focused on writing clean, maintainable, and testable code
