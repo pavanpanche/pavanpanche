@@ -16,9 +16,11 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, currently
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| 🌐 [LinkedIn-style Social App](https://github.com/pavanpanche/linkedin-style-social-app) | A full-stack social media platform with authentication, posts, likes, and comments | Flutter, Spring Boot, Spring Security (JWT), MySQL |
 | 🏨 [Hotel Reservation System](https://github.com/pavanpanche/Console-Based-HospitalManagementSystem-java) | A hotel booking system with 4 entities using Spring and JDBC | Java, JDBC, Spring, MySQL |
 | 📚 [Library Management System](https://github.com/pavanpanche/library-management-system) | Console-based system for managing books and members | Core Java |
 | 👨‍💼 [Employee Management System](https://github.com/pavanpanche/Employee-Management-System-Java-sql-spring) | Employee CRUD with sorting/filtering | Core Java, Jdbc, MySQL |
+
 ---
 
 
