@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, currently
 
 - 🎓 Currently Learning and Working: Flutter working on Full Backends Ecmmerce APP
 - 💡 Building: Real-world mini projects like Hotel Reservation System and Library Management System
-- 🛠️ Skills: Java, MySQL, JDBC, Spring Core, OOP, Git, Html
+- 🛠️ Skills: Java, Spring boot, MySQL, Spring Data Jpa, OOP, Git, Html, Css
 - 🌱 Focused on writing clean, maintainable, and testable code
 
 ---
