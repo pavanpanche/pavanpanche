@@ -1,8 +1,8 @@
 
-## 👋 Welcome to my GitHub Profile!
+👋 Welcome to my GitHub Profile!
 
-I'm a passionate **Software Engineer** who loves building **complete full-stack projects**.  
-Currently, I'm deeply exploring and practicing **advanced Flutter concepts**
+- I'm a passionate Software Engineer who loves building robust and scalable full-stack applications that solve real-world problems.  
+- Currently, I'm deeply exploring and practicing **advanced Flutter concepts**
 ---
 
 ## 🧑‍💻 About Me
