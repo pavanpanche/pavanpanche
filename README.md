@@ -2,14 +2,21 @@
 ## 👋 Welcome to my GitHub Profile!
 
 I'm a passionate **Software Engineer** who loves building **complete full-stack projects**.  
-Currently, I'm  deep exploring and practicing  **advanced Flutter concepts** and **state management** using **Bloc**.---
+Currently, I'm deeply exploring and practicing **advanced Flutter concepts**
+---
 
 ## 🧑‍💻 About Me
 
-- 🎓Currently Learning and Working:  Ecmmerce APP like (flipkart or amazon)
-- 💡 Building: Real-world full stack projects like Micro Blogging App (Twitter), Netflix Clone, LinkeDekho online job portal(Linkedine)
-- 🛠️ Skills: Java, Spring boot, spring data jpa, jwt & security, MySQL, Git, Dart, flutter
-- 🌱 Focused on writing clean, maintainable, and testable code
+- 🎓 **Currently Learning & Working On:** An **E-commerce App** (similar to Flipkart or Amazon)
+- 💡 **Building:** Real-world full-stack projects like:
+  - Micro Blogging App (**Twitter Clone**)
+  - **Netflix App Clone** 
+  - **LinkeDekho** – Online Job Portal (**LinkedIn Clone**)
+- 🛠️ **Skills:** Java, Spring Boot, Spring Data JPA, JWT & Spring Security, MySQL, JDBC, Dart, Flutter, HTML, CSS, Linux, Git, Maven, Lombok
+- 🌱 **Focused On:** Writing clean, maintainable, and testable code
+
+---
+
 
 ---
 
