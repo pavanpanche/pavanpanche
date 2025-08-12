@@ -1,13 +1,12 @@
 
-Welcome to my GitHub profile! I'm a passionate Java backend developer, currently exploring the Spring Framework ecosystem and building practical projects to strengthen my skills.
-
+Welcome to my GitHub profile! I'm a passionate to build a complete full stack project as a software engineer, currently exploring flutter advance concept or state management using bloC.
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently Learning and Working: Flutter working on Full Backends Ecmmerce APP
-- 💡 Building: Real-world mini projects like Hotel Reservation System and Library Management System
-- 🛠️ Skills: Java, Spring boot, MySQL, Spring Data Jpa, OOP, Git, Html, Css
+- 🎓Currently Learning and Working: Full Backends Ecmmerce APP like flipkart or amazon
+- 💡 Building: Real-world full stack projects like Micro Blogging App (Twitter), Netflix Clone, LinkeDekho online job portal(Linkedine)
+- 🛠️ Skills: Java, Spring boot, spring data jpa, jwt & security, MySQL, Git, Dart, flutter
 - 🌱 Focused on writing clean, maintainable, and testable code
 
 ---
