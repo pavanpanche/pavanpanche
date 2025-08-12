@@ -1,6 +1,8 @@
 
-Welcome to my GitHub profile! I'm a passionate to build a complete full stack project as a software engineer, currently exploring flutter advance concept or state management using bloC.
----
+## 👋 Welcome to my GitHub Profile!
+
+I'm a passionate **Software Engineer** who loves building **complete full-stack projects**.  
+Currently, I'm exploring **advanced Flutter concepts** and **state management** using **Bloc**.---
 
 ## 🧑‍💻 About Me
 
